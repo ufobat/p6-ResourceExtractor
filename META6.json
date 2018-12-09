@@ -1,0 +1,23 @@
+{
+  "authors" : [
+    "Martin Barth"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "ResourceExtractor",
+  "perl" : "6.c",
+  "provides" : {
+    "ResourceExtractor" : "lib/ResourceExtractor.pm6"
+  },
+  "resources" : [
+    "1.txt",
+    "foo/2.txt",
+    "foo/bar/3.txt"
+  ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.2"
+}
